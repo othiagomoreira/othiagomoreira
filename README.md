@@ -22,6 +22,6 @@
   <img align="right" alt="Thiago-yoda" src="https://media.discordapp.net/attachments/681969266811076682/876953822134669362/1.gif">
  
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/othiagomoreira/othiagomoreira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
